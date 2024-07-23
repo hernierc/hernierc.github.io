@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hernierc.github.io/sitemap
+Sitemap: https://hernierc.github.io/app/sitemap
+Sitemap: https://hernierc.github.io/assets/sitemap
+Sitemap: https://hernierc.github.io/css/sitemap
+Sitemap: https://hernierc.github.io/includes/sitemap
+Sitemap: https://hernierc.github.io/item/sitemap
+Sitemap: https://hernierc.github.io/src/sitemap
